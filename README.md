@@ -17,6 +17,6 @@ $ pip3 install -r requirements.txt
 
 Run command below to visualize the detected contours for the images in the samples dir:
 ```
-python main.py
+$ python main.py
 ```
 
